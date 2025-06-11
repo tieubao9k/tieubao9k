@@ -1,14 +1,5 @@
 <!-- 💖 Satoru GitHub README 💖 -->
 
-<style>
-body {
-  background-image: url('https://i.pinimg.com/originals/61/52/f2/6152f281f05f9c1e0ab8a3fc69d8d2f3.gif');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
-</style>
-
 <h1 align="center">
   ✨ Hi there, I'm <span style="color:#FF69B4;">Bảo (Satoru)</span> ✨
 </h1>
@@ -26,7 +17,7 @@ body {
 ### 🎂 Countdown to My Birthday (July 17)
 
 <p align="center">
-  <img src="https://countdown.daysoftheyear.com/birthday?day=17&month=7&theme=pink&font=poiret-one" alt="Birthday Countdown">
+  <img src="https://countdown.daysoftheyear.com/birthday?day=20&month=1&theme=pink&font=poiret-one" alt="Birthday Countdown">
 </p>
 
 ---
