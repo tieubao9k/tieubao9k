@@ -1,45 +1,49 @@
-<!-- 💖 Satoru GitHub README 💖 -->
+<!-- 🎀 Satoru's Cute GitHub README 🎀 -->
 
+<!-- 🌈 Ảnh nền giả lập -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/61/52/f2/6152f281f05f9c1e0ab8a3fc69d8d2f3.gif" width="100%" />
+</p>
+
+<!-- ✨ Chữ gõ lấp lánh -->
 <h1 align="center">
-  ✨ Hi there, I'm <span style="color:#FF69B4;">Bảo (Satoru)</span> ✨
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+Satoru's+GitHub!+%F0%9F%92%9C;Code+with+Love+%F0%9F%92%96;Happy+Everyday+~+%F0%9F%8C%9F;20+Jan+Birthday+Loading...+%F0%9F%8E%82" />
 </h1>
 
+<!-- 🐱 Avatar mèo cute -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=600&lines=Code+with+love+%F0%9F%92%96;Mèo+cute+%2B+Canvas+%3D+Magic+%F0%9F%A7%9C;Sinh+nh%E1%BA%ADt+g%E1%BA%A7n+%C4%91%E1%BA%BFn+r%C3%B2i+%F0%9F%8E%82" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
 </p>
 
 ---
 
-### 🎂 Countdown to My Birthday (July 17)
+### 🎂 Countdown to My Birthday (Jan 20)
 
 <p align="center">
-  <img src="https://countdown.daysoftheyear.com/birthday?day=20&month=1&theme=pink&font=poiret-one" alt="Birthday Countdown">
+  <img src="https://cdn.logwork.com/widget/countdown?theme=pink&font=poiret-one&text=My%20Birthday&date=2026-01-20%2000:00" />
 </p>
 
 ---
 
-### 🌸 About Me
+### 🐾 About Me
 
-- 😸 Nickname: **Satoru**
-- 🐇 Love building cute, interactive websites
-- 💻 Favorite stack: `Node.js`, `Canvas`, `Three.js`, `MongoDB`
-- 💕 Style: Pastel vibes, mèo bay, heart UI
+- 💖 Name: **Bảo** (aka **Satoru**)
+- 🎀 Loves building sweet & surprising websites
+- 🎨 Style: Mèo bay, pastel vibes, interactive canvas
+- 💻 Stack: `Node.js`, `MongoDB`, `Canvas`, `Three.js`, `React`
+- ✨ Hobby: Tặng bất ngờ lấp lánh cho người yêu 💘
 
 ---
 
-### ✨ My Skills
+### 💼 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,figma,threejs&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,figma,threejs&theme=light" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tieubao9k&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="45%">
@@ -48,7 +52,7 @@
 
 ---
 
-### 🌟 Star Me
+### 🌟 Star Me, Meow~
 
 <p align="center">
   <a href="https://github.com/tieubao9k/tieubao9k">
@@ -58,7 +62,7 @@
 
 ---
 
-### 👁 Visitors
+### 👀 Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tieubao9k&color=ff69b4&style=flat-square&label=Visitors" />
@@ -66,33 +70,26 @@
 
 ---
 
-### 💌 Let’s Connect
+### 💌 Let’s Connect!
 
 <p align="center">
-  <a href="https://facebook.com/wind.009" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-ffb6c1?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:shyn8383@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://facebook.com/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-ffb6c1?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🎵 Hidden Music
-
+<!-- 🔊 Nhạc nền ẩn -->
 <audio autoplay loop hidden>
   <source src="https://cdn.pixabay.com/download/audio/2023/03/14/audio_28757e4294.mp3?filename=cute-background-146094.mp3" type="audio/mp3">
 </audio>
 
----
-
-### 🐈 Flying Cat
-
+<!-- 🐈 Mèo bay ngang -->
 <p align="center">
   <img src="https://media.giphy.com/media/WYEWpk4lRPDq0/giphy.gif" width="100"/>
 </p>
 
----
-
-### 🐾 Cute Jumping Cat
-
+<!-- 🐾 Mèo nhảy -->
 <p align="center">
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="80">
 </p>
@@ -100,5 +97,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=footer&text=Satoru+Says+Thanks+for+Visiting+%F0%9F%92%95&fontSize=24&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=footer&text=Thanks+for+visiting+Satoru's+GitHub+%F0%9F%92%9C&fontSize=24&fontColor=ffffff" />
 </p>
