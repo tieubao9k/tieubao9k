@@ -67,11 +67,11 @@
 ### 💌 Contact Me
 
 <p align="center">
-  <a href="https://facebook.com/" target="_blank">
+  <a href="https://facebook.com/wind.009" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-ffb6c1?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:shyn8383@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -82,11 +82,6 @@
 <audio autoplay loop hidden>
   <source src="https://cdn.pixabay.com/download/audio/2023/03/14/audio_28757e4294.mp3?filename=cute-background-146094.mp3" type="audio/mp3">
 </audio>
-
-<!-- 🐈 Mèo bay -->
-<p align="center">
-  <img src="https://media.giphy.com/media/WYEWpk4lRPDq0/giphy.gif" width="100%"/>
-</p>
 
 <!-- 🐾 Mèo nhảy -->
 <p align="center">
